@@ -31,7 +31,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 public class HelloController
 {
 
-    @RequestMapping("/")
+    @RequestMapping("/dimit")
     @ResponseBody
     //http://localhost:8080/
     String home()
