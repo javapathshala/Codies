@@ -10,4 +10,12 @@
     <packaging>jar</packaging>
     <name>Spring Boot</name>
     <description>Spring Boot</description>
+    
+    <dependencies>
+        <dependency>
+            <groupId>org.springframework.boot</groupId>
+            <artifactId>spring-boot-starter-web</artifactId>
+             <version>1.5.6.RELEASE</version>
+        </dependency>
+    </dependencies>
 </project>
