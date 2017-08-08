@@ -7,4 +7,7 @@
     <packaging>pom</packaging>
     <name>JP Core Module</name>
     <description>This consist of small java core codes</description>
+    <modules>
+        <module>Threads</module>
+    </modules>
 </project>
