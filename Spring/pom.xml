@@ -9,5 +9,6 @@
     <description>This consist of spring codes</description>
     <modules>
         <module>Boot</module>
+        <module>Integration</module>
     </modules>
 </project>
