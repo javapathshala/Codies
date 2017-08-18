@@ -9,5 +9,7 @@
     <description>This consist of small java core codes</description>
     <modules>
         <module>Threads</module>
+        <module>Concurrency</module>
+        <module>Collections</module>
     </modules>
 </project>
