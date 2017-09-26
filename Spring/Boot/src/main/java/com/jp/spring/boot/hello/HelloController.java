@@ -32,15 +32,15 @@ public class HelloController
 {
 
     @RequestMapping("/dimit")
-    @ResponseBody
-    //http://localhost:8080/
-    String home()
+    @ResponseBody    String home()
     {
         return "Welcome to Spring Boot!";
     }
 
     public static void main(String[] args) throws Exception
     {
+    //http://localhost:8080/
+
         SpringApplication.run(HelloController.class, args);
     }
 }
