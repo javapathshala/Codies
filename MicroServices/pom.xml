@@ -10,5 +10,6 @@
     <modules>
         <module>HelloWorld</module>
         <module>BackEndService</module>
+        <module>eurekaserver</module>
     </modules>
 </project>
