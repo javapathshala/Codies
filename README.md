@@ -1,3 +1,3 @@
 # Codies
-Java Pathshala Case Studies
-Collection of All java codes. 
+Java Pathshala Case Studies for Microservices
+
